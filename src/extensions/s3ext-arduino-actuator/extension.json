@@ -1,0 +1,6 @@
+{
+    "name": "Actuator",
+    "type": "arduino",
+    "image": "motor.png",
+    "example": "Arduino"
+}

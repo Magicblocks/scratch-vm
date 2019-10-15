@@ -1,0 +1,6 @@
+{
+    "name": "Display",
+    "type": "arduino",
+    "image": "display.png",
+    "example": "Arduino"
+}
