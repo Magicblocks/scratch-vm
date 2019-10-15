@@ -24,7 +24,8 @@ const builtinExtensions = {
     makeymakey: () => require('../extensions/scratch3_makeymakey'),
     boost: () => require('../extensions/scratch3_boost'),
     gdxfor: () => require('../extensions/scratch3_gdx_for'),
-	arduino: () => require('../extensions/scratch3_arduino')
+	arduino: () => require('../extensions/scratch3_arduino'),
+    arduino2: () => require('../extensions/s3ext-arduino')
 };
 
 /**
